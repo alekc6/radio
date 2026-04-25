@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>alekc6 Radio: Oasis Edition</title>
+    <link>https://alekc6.github.io/</link>
+    <language>en-us</language>
+    <itunes:author>alekc6</itunes:author>
+    <description>50/50 mix of amateur radio updates and Oasis tracks.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Music"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/alekc6/podcast/main/cover.jpg"/>
+
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>Oasis Mix 01</title>
+      <description>The first 30-minute set featuring amateur radio updates and curated Oasis tracks.</description>
+      <pubDate>Sat, 25 Apr 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f-B3rZWAIYJYqz845h6mTgDA5fhCDYZF" length="30000000" type="audio/mpeg"/>
+      <guid isPermaLink="false">oasis-radio-ep-001</guid>
+      <itunes:duration>30:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
